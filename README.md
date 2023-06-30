@@ -9,5 +9,6 @@ To run the development server:
 
 ```bash
 npm run dev
+```
 
 ![Screenshot 2023-06-30 at 10 41 19 AM](https://github.com/dclsamples/chatterbot/assets/1455542/d3059104-648f-42e6-94bd-93abab059e75)
